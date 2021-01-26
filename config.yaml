@@ -73,10 +73,7 @@ params:
             is_required: true
         submit_label: Subscribe
     has_nav: false
-    nav_links:
-      - label: Privacy Policy
-        url: /privacy-policy
-        style: link
+    nav_links: []
     content: ©2021 DATARAK Inc.
     links:
       - label: lorem-ipsum
