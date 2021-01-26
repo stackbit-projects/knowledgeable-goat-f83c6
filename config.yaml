@@ -20,9 +20,6 @@ params:
       - label: Style Guide
         url: /style-guide
         style: link
-      - label: Sign Up
-        url: /signup
-        style: primary
   footer:
     sections:
       - type: footer_text
