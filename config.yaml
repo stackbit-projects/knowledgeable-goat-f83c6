@@ -4,7 +4,7 @@ params:
   base_font: fira-sans
   palette: green
   header:
-    logo_img: images/6.jpg
+    logo_img: images/datarak.png
     logo_img_alt: Logo
     has_nav: true
     nav_links:
