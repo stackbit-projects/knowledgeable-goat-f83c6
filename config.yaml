@@ -20,7 +20,7 @@ params:
   footer:
     sections:
       - type: footer_text
-        image: images/logo-alt.svg
+        image: images/polite-aluminum.png
         image_url: /
         image_alt: Footer logo
         content: ''
