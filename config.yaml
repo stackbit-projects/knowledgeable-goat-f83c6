@@ -2,7 +2,7 @@ title: Azimuth
 baseURL: /
 params:
   base_font: fira-sans
-  palette: green
+  palette: orange
   header:
     logo_img: images/polite-aluminum.png
     logo_img_alt: Logo
